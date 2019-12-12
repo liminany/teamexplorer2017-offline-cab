@@ -1,3 +1,15 @@
+
+## 存储优化实践
+https://mp.weixin.qq.com/s/x71CLB-rQaomtAplX8oo5g
+
+## Clean up your Team Project Collection prior to migrating to VSTS
+
+https://jessehouwing.net/tfs-clean-up-your-project-collection/
+
+https://developercommunity.visualstudio.com/content/problem/63712/tfs-database-size.html
+
+
+
 ## Performing a clean uninstall of Search extensions in Team Foundation Server 
 
 https://tapas-techsnips.blogspot.com/2019/01/performing-clean-uninstall-of-search.html
