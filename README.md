@@ -2,6 +2,8 @@
 
 https://blog.csdn.net/g394100942/article/details/78622696
 
+https://github.com/liminany/teamexplorer2017-offline-cab/releases/tag/TFS-WorkItem-add
+
 ## sql 格式化插件
 
 http://www.dpriver.com/dlaction.php
