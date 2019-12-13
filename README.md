@@ -1,4 +1,8 @@
-##sql 格式化插件
+## sql server 监控/调优资料
+
+https://blog.csdn.net/g394100942/article/details/78622696
+
+## sql 格式化插件
 
 http://www.dpriver.com/dlaction.php
 
