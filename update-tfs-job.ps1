@@ -18,6 +18,6 @@ $jobService.QueryLatestJobHistory([Guid[]] @($job.JobId))
 $interval = 10801 # change this to the number of seconds between each run; 172800 = 2 days
 $job.Schedule[0].Interval = $interval # there is only one schedule for the build information clean-up job, we set its interval
 
-#disable job
-$job.EnabledState=2
+#disable job （ Enabled：0 ， SchedulesDisabled：1 ，FullyDisabled：2）
+$job.EnabledState=2   
 $jobService.UpdateJob($job)
