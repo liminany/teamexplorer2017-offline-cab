@@ -1,4 +1,4 @@
-﻿$collection = "http://localhost:8080/tfs/DefaultCollection" # change this to the URL of your team project collection
+$collection = "http://localhost:8080/tfs/DefaultCollection" # change this to the URL of your team project collection
 $pathToAss2 = "C:\Program Files\Microsoft Team Foundation Server 2018\Tools"
 $pathToAss4 = "C:\Program Files\Microsoft Team Foundation Server 2018\Tools"
 Add-Type -Path "$pathToAss2\Microsoft.TeamFoundation.Client.dll"
@@ -9,8 +9,8 @@ Add-Type -Path "$pathToAss2\Microsoft.TeamFoundation.VersionControl.Client.dll"
 $tpc =  [Microsoft.TeamFoundation.Client.TfsTeamProjectCollectionFactory]::GetTeamProjectCollection($collection)
 $jobService = $tpc.GetService([Microsoft.TeamFoundation.Framework.Client.ITeamFoundationJobService])
 
-# job name
-$job = $jobService.QueryJobs() | Where-Object {$_.Name -eq "Work Item Tracking Integration Synchronization"}
+# job name, change to right job name
+$job = $jobService.QueryJobs() | Where-Object {$_.Name -eq "Work Item Tracking Integration Synchronization4444"}
 $job
 $jobService.QueryLatestJobHistory([Guid[]] @($job.JobId))
 
