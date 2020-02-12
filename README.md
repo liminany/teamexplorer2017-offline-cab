@@ -27,7 +27,7 @@ https://developercommunity.visualstudio.com/content/problem/726853/azure-devops-
 
 https://developercommunity.visualstudio.com/content/problem/63712/tfs-database-size.html
 
-
+https://stackoverflow.com/questions/50922180/tfs-collection-is-over-7-tb-in-3-months-how-to-slim-it
 
 ## Performing a clean uninstall of Search extensions in Team Foundation Server 
 
