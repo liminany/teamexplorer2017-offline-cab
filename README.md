@@ -19,6 +19,14 @@ https://jessehouwing.net/tfs-clean-up-your-project-collection/
 
 https://developercommunity.visualstudio.com/content/problem/63712/tfs-database-size.html
 
+https://docs.microsoft.com/en-us/azure/devops/server/upgrade/clean-up-data?view=tfs-2018
+
+https://roadtoalm.com/2015/01/14/bulk-destroy-work-items-from-team-foundation-server/
+
+https://developercommunity.visualstudio.com/content/problem/726853/azure-devops-server-2019-update-1-database-not-get.html
+
+https://developercommunity.visualstudio.com/content/problem/63712/tfs-database-size.html
+
 
 
 ## Performing a clean uninstall of Search extensions in Team Foundation Server 
